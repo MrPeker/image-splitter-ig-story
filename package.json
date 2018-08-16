@@ -1,0 +1,11 @@
+{
+  "name": "image-splitter-ig-story",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrPeker/image-splitter-ig-story.git",
+  "author": "Mehmet Ali Peker <maps6134@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.3.5"
+  }
+}
