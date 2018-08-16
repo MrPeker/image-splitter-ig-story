@@ -17,5 +17,5 @@ node app.js dosya_ismi klasor_ismi
    node app.js image.png me 
 ```
 
-##### İngilizce hazırlamaya çalışırken rezil olmaya korktuğumdan, ingilizce için pull request'inizi bekliyorum :) 
+##### İngilizce hazırlamaya çalışırken rezil olmaya korktuğumdan yapmadım, İngilizce için pull request'inizi bekliyorum :) 
 _İsim içinde bi issue sayfasını ziyaret ederseniz çok makbule geçer :)_
