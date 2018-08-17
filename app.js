@@ -5,7 +5,6 @@ const name = process.argv[3];
 jimp.read(image, (err, image) => {
     if (err) throw err;
     let { width, height } = image.bitmap;
-    console.log(width, width/1080, 1080/1920, 1920*(width/1080), 1920/(width/1080));
     let splitHeight = 1920*(width/1080);
     let imageCount = height/splitHeight;
     for (let i = 1; i <= imageCount; i++) {
